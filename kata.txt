@@ -2,13 +2,13 @@ terang,gelap
 tinggi,rendah
 murah,mahal
 bagus,jelek
-Abadi >< Sementara 
-Abdi >< Majikan 
-Adem >< Panas 
-Agung >< Kecil 
-Ahli >< Amatir 
-Ahli >< Awam 
-Ajaib >< Biasa, umum, lumrah dan lazim 
+Abadi,Sementara 
+Abdi,Majikan 
+Adem,Panas 
+Agung,Kecil 
+Ahli,Amatir 
+Ahli,Awam 
+Ajaib,Biasa, umum, lumrah dan lazim 
 Ajal >< Hidup, bernapas 
 Ajar >< pengajar: Murid, siswa, pelajar 
 Akhir >< Awal, mula 
