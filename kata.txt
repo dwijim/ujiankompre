@@ -1,0 +1,4 @@
+terang,gelap
+tinggi,rendah
+murah,mahal
+bagus,jelek
