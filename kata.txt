@@ -52,7 +52,7 @@ Fisik ,Roh, sukma
 Gadungan ,Asli
 Gampang ,Susah  
 Ganjil,enap 
-Geger ,Damai, tenang 
+Geger ,Damai
 Gelap ,Terang 
 Gemuk ,Kurus 
 Genap ,Ganjil 
