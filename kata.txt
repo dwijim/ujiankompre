@@ -48,7 +48,7 @@ Duduk ,Berdiri
 Duka ,Suka 
 Elastis ,Kaku 
 Fakta ,Fiksi 
-Fisik ,Roh, sukma 
+Fisik ,Roh
 Gadungan ,Asli
 Gampang ,Susah  
 Ganjil,enap 
