@@ -105,8 +105,6 @@ Nikah ,Cerai
 Optimistis ,Pesimistis 
 Jernih ,Keruh 
 Jinak ,Buas  
-
-Contoh Kata Antonim dalam Bahasa Indonesia  
 Orisinal ,Palsu 
 Padat ,Renggang 
 Pahala ,Dosa 
@@ -138,4 +136,22 @@ Siang ,Malam
 Sukses ,Gagal 
 Surga ,Neraka 
 Tajam ,Tumpul 
-Takut ,berani Tambah ,Kurang Tangguh ,Rentan Tangkap ,Lepas Tanjakan ,Turunan Tanya ,Jawab Tarik ,Ulur Tebal ,Tipis Terang ,gelap Tua ,Muda Umum ><Khusus Unduh ,Unggah Unik ,Biasa Untung ,Rugi Vertikal ,Horizontal Yakin ,Ragu Zalim ,Baik Berat ,ringan Bau ,wangi
+Takut ,berani 
+Tambah ,Kurang 
+Tangguh ,Rentan 
+Tangkap ,Lepas 
+Tanjakan ,Turunan 
+Tanya ,Jawab 
+Tarik ,Ulur 
+Tebal ,Tipis 
+Terang ,gelap 
+Tua ,Muda 
+Umum,Khusus 
+Unduh ,Unggah 
+Unik ,Biasa 
+Untung ,Rugi 
+Vertikal ,Horizontal 
+Yakin ,Ragu 
+Zalim ,Baik 
+Berat ,ringan 
+Bau ,wangi
