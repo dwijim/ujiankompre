@@ -38,7 +38,6 @@ CREATE TABLE `bulan` (
 --
 
 INSERT INTO `bulan` (`kode`, `keterangan`) VALUES
-('0', 'Semua bulan'),
 ('1', 'Januari'),
 ('10', 'Oktober'),
 ('11', 'November'),
